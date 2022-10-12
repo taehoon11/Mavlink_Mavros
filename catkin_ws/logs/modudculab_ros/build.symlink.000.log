@@ -1,0 +1,7 @@
+Symlinking /home/taehoon/catkin_ws/devel/lib/modudculab_ros/pub_setpoints_att
+Symlinking /home/taehoon/catkin_ws/devel/lib/modudculab_ros/test_setpoints_traj
+Symlinking /home/taehoon/catkin_ws/devel/lib/modudculab_ros/pub_setpoints_traj
+Symlinking /home/taehoon/catkin_ws/devel/lib/modudculab_ros/pub_setpoints_pos
+Symlinking /home/taehoon/catkin_ws/devel/lib/pkgconfig/modudculab_ros.pc
+Symlinking /home/taehoon/catkin_ws/devel/share/modudculab_ros/cmake/modudculab_rosConfig.cmake
+Symlinking /home/taehoon/catkin_ws/devel/share/modudculab_ros/cmake/modudculab_rosConfig-version.cmake

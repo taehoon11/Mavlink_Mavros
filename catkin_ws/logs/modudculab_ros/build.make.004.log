@@ -1,0 +1,7 @@
+[35m[1mScanning dependencies of target pub_setpoints_pos[0m
+[ 25%] Built target pub_setpoints_att
+[ 37%] [32mBuilding CXX object CMakeFiles/pub_setpoints_pos.dir/src/pub_setpoints_pos.cpp.o[0m
+[ 87%] Built target pub_setpoints_traj
+[ 87%] Built target test_setpoints_traj
+[100%] [32m[1mLinking CXX executable /home/taehoon/catkin_ws/devel/.private/modudculab_ros/lib/modudculab_ros/pub_setpoints_pos[0m
+[100%] Built target pub_setpoints_pos

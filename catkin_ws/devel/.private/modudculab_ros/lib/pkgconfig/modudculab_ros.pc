@@ -1,0 +1,8 @@
+prefix=/home/taehoon/catkin_ws/devel/.private/modudculab_ros
+
+Name: modudculab_ros
+Description: Description of modudculab_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
